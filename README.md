@@ -1,0 +1,1 @@
+# TCP-Port-Scanner-80-443-3389-This PowerShell script will test the specified TCP ports (in this case, ports 80, 443, and 3389) on the given hostname or IP address and display whether each port is open or closed. Remember to replace the $hostname variable with the IP address or hostname you want to scan and modify the $ports array to include the ports you want to check.
